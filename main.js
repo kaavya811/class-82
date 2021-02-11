@@ -41,5 +41,5 @@ function my_mousemove(e){
     
 }
 function cleararea(){
-    ctx.clearRect(0,0,ctx.canvas.width,ctx.canavs.hieght)
+    ctx.clearRect(0,0,ctx.canvas.width,ctx.canvas.height)
 }
